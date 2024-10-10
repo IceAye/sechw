@@ -1,0 +1,57 @@
+.message {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    padding-top: 24px;
+}
+
+.imageAndText {
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: end;
+}
+
+.imageAndText img {
+    width: 48px;
+    height: 48px;
+}
+
+.text {
+    padding: 7px 14px;
+    background-color: #0066CC;
+    color: #FFFFFF;
+    margin-right: 12px;
+    border-radius: 10px 10px 0;
+    position: relative;
+}
+
+.text::after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 100%;
+    margin-left: -1px;
+    display: block;
+    border: 7px solid transparent;
+    border-left: 7px solid #0066CC;
+    border-bottom: 7px solid #0066CC;
+    background: linear-gradient(-135deg, transparent 50%, #0066CC 50%) no-repeat;
+}
+
+.name {
+    text-align: right;
+    font-size: 18px;
+    font-weight: 600;
+}
+
+.messageText {
+    font-family: "Montserrat", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.time {
+    font-size: 10px;
+    font-weight: 600;
+    margin: 5px 10px;
+}
