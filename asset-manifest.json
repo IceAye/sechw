@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/sechw/static/css/main.ee50ee87.css",
+    "main.js": "/sechw/static/js/main.95fba001.js",
+    "static/js/787.66cb4309.chunk.js": "/sechw/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/sechw/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/sechw/index.html",
+    "main.ee50ee87.css.map": "/sechw/static/css/main.ee50ee87.css.map",
+    "main.95fba001.js.map": "/sechw/static/js/main.95fba001.js.map",
+    "787.66cb4309.chunk.js.map": "/sechw/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee50ee87.css",
+    "static/js/main.95fba001.js"
+  ]
+}
