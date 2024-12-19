@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/sechw/static/css/main.c37770cf.css",
-    "main.js": "/sechw/static/js/main.5d9dfa22.js",
+    "main.css": "/sechw/static/css/main.d0210522.css",
+    "main.js": "/sechw/static/js/main.3c2283bf.js",
     "static/js/787.66cb4309.chunk.js": "/sechw/static/js/787.66cb4309.chunk.js",
     "static/media/avatar.png": "/sechw/static/media/avatar.d947cb9d0d13765666b6.png",
     "static/media/404.svg": "/sechw/static/media/404.9ec31c0ba8d95b0480272e46af98c955.svg",
@@ -10,12 +10,12 @@
     "index.html": "/sechw/index.html",
     "static/media/checked.svg": "/sechw/static/media/checked.b75ca55e8759862b4083.svg",
     "static/media/burger.svg": "/sechw/static/media/burger.700e416f7bfe3697f96b36c778d25355.svg",
-    "main.c37770cf.css.map": "/sechw/static/css/main.c37770cf.css.map",
-    "main.5d9dfa22.js.map": "/sechw/static/js/main.5d9dfa22.js.map",
+    "main.d0210522.css.map": "/sechw/static/css/main.d0210522.css.map",
+    "main.3c2283bf.js.map": "/sechw/static/js/main.3c2283bf.js.map",
     "787.66cb4309.chunk.js.map": "/sechw/static/js/787.66cb4309.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.c37770cf.css",
-    "static/js/main.5d9dfa22.js"
+    "static/css/main.d0210522.css",
+    "static/js/main.3c2283bf.js"
   ]
 }
